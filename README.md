@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Faina — Data Analyst
 
-<!--
-**faina-dataanalytics/faina-dataanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help turn data into insights with SQL, Tableau & Excel.
 
-Here are some ideas to get you started:
+## Skills & Tools
+SQL | PostgreSQL | Tableau | Excel | Python | Data Cleaning | BI Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+**Rockbuster SQL Analysis** — Complete SQL + Tableau project analyzing film rental business  
+🔗 https://github.com/faina-dataanalytics/rockbuster-sql-analysis
+
+**Tableau BI Dashboards** — Interactive dashboards for mobile games, etc.  
+🔗 https://github.com/faina-dataanalytics/tableau-bi-dashboards
+
+**Videospiel Sales Analysis** — Market trend insights from game sales data  
+🔗 https://github.com/faina-dataanalytics/analyse_der_videospielverkufe
+
+## Connect
+LinkedIn: https://linkedin.com/in/fainakozyrieva  
+
