@@ -1,9 +1,11 @@
-# Hi, I'm Faina — Data Analyst
-
-I help turn data into insights with SQL, Tableau & Excel.
+# Hi, ich bin Faina — Data Analystin
+Ich arbeite mit Daten, um klare und umsetzbare Insights zu entwickeln – mit SQL, Python, Tableau und Excel.
 
 ## Skills & Tools
-SQL | PostgreSQL | Tableau | Excel | Python | Data Cleaning | BI Reporting
+**SQL:** PostgreSQL, BigQuery  
+**Python:** Pandas, NumPy, Matplotlib, Seaborn  
+**Visualisierung:** Tableau, Amplitude, Excel  
+**Analyse:** EDA, A/B-Tests, Regressionen, KPI-Design, Segmentierung
 
 ## Connect
 LinkedIn: https://linkedin.com/in/fainakozyrieva  
