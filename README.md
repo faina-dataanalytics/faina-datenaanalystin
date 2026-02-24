@@ -7,7 +7,6 @@ Ich arbeite mit Daten, um klare und umsetzbare Insights zu entwickeln – mit SQ
 **Visualisierung:** Tableau, Amplitude, Excel  
 **Analyse:** EDA, A/B-Tests, Regressionen, KPI-Design, Segmentierung
 
-### Portfolio
 [Portfolio ansehen](https://raw.githubusercontent.com/faina-dataanalytics/portfolio/main/Portfolio_Datenanalystin_Faina_Kozyrieva.pdf)
 
 ## Connect
