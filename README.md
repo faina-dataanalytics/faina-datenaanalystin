@@ -7,8 +7,8 @@ Ich arbeite an der Schnittstelle von Business, Daten und Technologie – mit dem
 
 ### Direktzugriff auf die Repositories
 
-▪ [**Business Analysis & AI Solutions**](https://github.com/faina-dataanalytics/business-AI-solutions-portfolio) — Anforderungsanalyse, KI-gestützte Konzepte & Prozessoptimierung
-▪ [**Data Science & Analytics**](https://github.com/faina-dataanalytics/data-science-analytics-portfolio) — Machine-Learning-Modelle, Explorative Datenanalyse, Kundensegmentierung & BI-Reporting
+- [**Business Analysis & AI Solutions**](https://github.com/faina-dataanalytics/business-AI-solutions-portfolio) — Anforderungsanalyse, KI-gestützte Konzepte & Prozessoptimierung
+- [**Data Science & Analytics**](https://github.com/faina-dataanalytics/data-science-analytics-portfolio) — Machine-Learning-Modelle, Explorative Datenanalyse, Kundensegmentierung & BI-Reporting
 
 ---
 
