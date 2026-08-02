@@ -34,5 +34,5 @@ Ich arbeite an der Schnittstelle von Business, Daten und Technologie – mit dem
 
 ### Kontakt
 
-► **LinkedIn:** [linkedin.com/in/fainakozyrieva](https://linkedin.com/in/fainakozyrieva)  
-► **Portfolio:** [faina-dataanalytics.github.io/portfolio-faina/](https://faina-dataanalytics.github.io/portfolio-faina/)  
+► [**LinkedIn:**](https://linkedin.com/in/fainakozyrieva)  
+► [**Portfolio:**](https://faina-dataanalytics.github.io/portfolio-faina/)  
