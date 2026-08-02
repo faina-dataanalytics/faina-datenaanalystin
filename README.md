@@ -6,7 +6,7 @@ I work at the intersection of business, data, and technology — turning complex
 
 With a background in information management, reporting, and cross-functional coordination, I specialize in understanding business requirements and translating them into analytical solutions.
 
-Currently, I focus on Data Analytics, Business Intelligence, and Machine Learning using Python, SQL, and modern BI tools.
+Currently, I focus on Data Analytics, Business Intelligence, and Machine Learning using Python, SQL, and modern BI tools. 
 
 ---
 
