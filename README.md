@@ -7,8 +7,8 @@ Ich arbeite an der Schnittstelle von Business, Daten und Technologie – mit dem
 
 ### Direktzugriff auf die Repositories
 
-▪ [**Business Analysis & AI Solutions**](https://github.com/faina-dataanalytics/business-AI-solutions-portfolio) — Anforderungsanalyse, KI-gestützte Konzepte & Prozessoptimierung *(siehe angeheftetes Repository unten)*
-▪ [**Data Science & Analytics**](https://github.com/faina-dataanalytics/data-science-analytics-portfolio) — Machine-Learning-Modelle, Explorative Datenanalyse, Kundensegmentierung & BI-Reporting *(siehe angeheftetes Repository unten)*
+▪ [**Business Analysis & AI Solutions**](https://github.com/faina-dataanalytics/business-AI-solutions-portfolio) — Anforderungsanalyse, KI-gestützte Konzepte & Prozessoptimierung
+▪ [**Data Science & Analytics**](https://github.com/faina-dataanalytics/data-science-analytics-portfolio) — Machine-Learning-Modelle, Explorative Datenanalyse, Kundensegmentierung & BI-Reporting
 
 ---
 
@@ -25,10 +25,10 @@ Ich arbeite an der Schnittstelle von Business, Daten und Technologie – mit dem
 
 ### Ausgewählte Projekte
 
-▪ [**Car Auction Risk Detection**](https://github.com/faina-dataanalytics/Predicting-Risky-Vehicle-Purchases) — Machine Learning (Klassifikation & Risikobewertung)
-▪ [**Instacart Customer Analytics & Segmentation**](https://github.com/faina-dataanalytics/Online-Einkaufsmuster-und-Kundensegmentierung-Python-) — EDA, Kundensegmentierung & Marketingempfehlungen in Python (Pandas & Seaborn)
-▪ [**Analyse der Flugperformance**](https://github.com/faina-dataanalytics/Flight-Punctuality-Temporal-Pattern-Analysis-Power-BI-) — Executive Dashboards in Power BI & Tableau
-▪ [**Influenza Analysis & Workforce Planning**]() — Multi-Source-Datenintegration, KPI-Entwicklung & Risikomodellierung (Tableau Dashboard)
+- [**Car Auction Risk Detection**](https://github.com/faina-dataanalytics/Predicting-Risky-Vehicle-Purchases) — Machine Learning (Klassifikation & Risikobewertung)
+- [**Instacart Customer Analytics & Segmentation**](https://github.com/faina-dataanalytics/Online-Einkaufsmuster-und-Kundensegmentierung-Python-) — EDA, Kundensegmentierung & Marketingempfehlungen in Python (Pandas & Seaborn)
+- [**Analyse der Flugperformance**](https://github.com/faina-dataanalytics/Flight-Punctuality-Temporal-Pattern-Analysis-Power-BI-) — Executive Dashboards in Power BI & Tableau
+- [**Influenza Analysis & Workforce Planning**]() — Multi-Source-Datenintegration, KPI-Entwicklung & Risikomodellierung (Tableau Dashboard)
 
 ---
 
