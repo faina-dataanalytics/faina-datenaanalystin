@@ -1,69 +1,38 @@
-# Hi, I’m Faina 
+# Faina Kozyrieva
+### Business Analyst | Data Analytics | Digital Transformation
 
-## Business Analyst | Data Analytics | Digital Transformation
-
-I work at the intersection of business, data, and technology — turning complex information into structured insights that support decision-making and process improvement.
-
-With a background in information management, reporting, and cross-functional coordination, I specialize in understanding business requirements and translating them into analytical solutions.
-
-Currently, I focus on Data Analytics, Business Intelligence, and Machine Learning using Python, SQL, and modern BI tools. 
+Ich arbeite an der Schnittstelle von Business, Daten und Technologie – mit dem Ziel, komplexe Anforderungen in strukturierte Erkenntnisse, skalierbare Modelle und praxistaugliche Lösungen zu übersetzen.
 
 ---
 
-## What I do
+### Direktzugriff auf die Repositories
 
-- Business & process analysis
-- Data analysis & reporting
-- KPI design & performance tracking
-- Dashboard development (Power BI, Tableau)
-- Customer & product analytics
-- Machine learning (classification & clustering)
+▪ [**Business Analysis & AI Solutions**](https://github.com/faina-dataanalytics/business-AI-solutions-portfolio) — Anforderungsanalyse, KI-gestützte Konzepte & Prozessoptimierung *(siehe angeheftetes Repository unten)*
+▪ [**Data Science & Analytics**](https://github.com/faina-dataanalytics/data-science-analytics-portfolio) — Machine-Learning-Modelle, Explorative Datenanalyse, Kundensegmentierung & BI-Reporting *(siehe angeheftetes Repository unten)*
 
 ---
 
-## Tech Stack
+### Tech Stack & Methoden
 
-**Languages & Data**
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL (PostgreSQL, BigQuery)
-
-**BI & Visualization**
-- Power BI
-- Tableau
-- Amplitude
-- Excel
-
-**Tools**
-- Git / GitHub
-- Jupyter Notebook
-- VS Code
-- Bash (basic)
+| Bereich | Technologien & Tools |
+| :--- | :--- |
+| **Sprachen & Daten** | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery) |
+| **BI & Analytics** | Power BI, Tableau, Amplitude, Advanced Excel |
+| **Methoden & Fokus** | Business Analysis, KPI-Entwicklung, Kunden- & Produktanalytik, Machine Learning |
+| **Tools & OS** | Git / GitHub, Jupyter Notebook, VS Code, Bash |
 
 ---
 
-## Selected Projects
+### Ausgewählte Projekte
 
-- Car Auction Risk Detection (Machine Learning)
-- Product & Customer Journey Analytics
-- KPI Reporting & Business Dashboards
-- Customer Segmentation (Clustering)
-- E-Commerce Funnel Analysis
-
----
-
-## Focus Areas
-
-- Data-driven decision making
-- Business process optimization
-- Product & customer analytics
-- Digital transformation & AI applications
+▪ [**Car Auction Risk Detection**](https://github.com/faina-dataanalytics/Predicting-Risky-Vehicle-Purchases) — Machine Learning (Klassifikation & Risikobewertung)
+▪ [**Instacart Customer Analytics & Segmentation**](https://github.com/faina-dataanalytics/Online-Einkaufsmuster-und-Kundensegmentierung-Python-) — EDA, Kundensegmentierung & Marketingempfehlungen in Python (Pandas & Seaborn)
+▪ [**Analyse der Flugperformance**](https://github.com/faina-dataanalytics/Flight-Punctuality-Temporal-Pattern-Analysis-Power-BI-) — Executive Dashboards in Power BI & Tableau
+▪ [**Influenza Analysis & Workforce Planning**]() — Multi-Source-Datenintegration, KPI-Entwicklung & Risikomodellierung (Tableau Dashboard)
 
 ---
 
-## Contact
+### Kontakt
 
-- GitHub: github.com/faina-dataanalytics
-- LinkedIn: linkedin.com/in/fainakozyrieva
-- Portfolio: (GitHub Pages)
-
-
+► **LinkedIn:** [linkedin.com/in/fainakozyrieva](https://linkedin.com/in/fainakozyrieva)  
+► **Portfolio:** [faina-dataanalytics.github.io/portfolio-faina/](https://faina-dataanalytics.github.io/portfolio-faina/)  
